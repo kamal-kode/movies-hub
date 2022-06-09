@@ -1,3 +1,6 @@
+This project build using React Js and Material UI, CSS. This project covers the concepts of React hooks , custom hooks and PWA (progressive web app).
+This project hosted on netlify Live Demo - https://moviee-hub.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
