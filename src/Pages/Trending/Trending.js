@@ -11,7 +11,9 @@ const [page, setPage] = useState(1)
     setContent(data.results)
   }
   useEffect(() => {
+      // eslint-disable-next-line react-hooks/exhaustive-deps
     fetchTrending()
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [page])
 
   return (
